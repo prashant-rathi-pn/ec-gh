@@ -9,6 +9,7 @@ public class hw2 {
 		// TODO Auto-generated method stub
 		System.out.println("HW2:GIT is Cool");
 		System.out.println("HW2:GIT is Cool");
+		System.out.println("HW2:GIT is Cool");
 	}
 
 }
